@@ -5,7 +5,7 @@
 
 
 # Installation:
-	Go to directory /obj/release
+	Go to releases on this github page
 	Download Minesweeper.exe
 	Run the program
 
