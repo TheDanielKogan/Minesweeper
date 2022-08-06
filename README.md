@@ -1,3 +1,10 @@
+# <!> WARNING <!>
+	The release of this application does not currently work as the letter
+	recognizing library I am using is not currently allowed to be used
+	outside of Visual Studio. Therefore, if you would like to run this program,
+	please do so by importing this solution into visual studio.
+
+
 # Information:
 	This application is a my own rendition of the popular game 'Minesweeper'
 	Either flag all the bombs are click away all the remaining tiles to win
